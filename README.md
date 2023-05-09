@@ -1,7 +1,7 @@
 ### Olá 👋
 
-- 🔭 Hoje trabalho com front-end na @ioasys
-- 🌱 Estudando javascript, reactjs e cibersegurança
+- 🔭 Tenho experiência com front-end em reactjs e backend em nodejs
+- 🌱 Estudando js, ts e reactjs
 - 📫 Pode me contactar em: gchiucchi01@gmail.com
 
 
