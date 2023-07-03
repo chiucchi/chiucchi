@@ -2,7 +2,7 @@
 
 - 🔭 Tenho experiência com front-end em reactjs e backend em nodejs
 - 🌱 Estudando js, ts e reactjs
-- 📫 Pode me contactar em: gchiucchi01@gmail.com
+- 📫 Pode me contactar em: contato.chiucchi@gmail.com
 
 
 <div align="center">
