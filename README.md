@@ -1,7 +1,7 @@
 ### Olá 👋
 
-- 🔭 Tenho experiência com front-end em reactjs e backend em nodejs
-- 🌱 Estudando js, ts e reactjs
+- 🔭 Tenho experiência com front-end utilizando reactjs + typescript e nextjs e em backend utilizando golang, python e nodejs
+- 🌱 Estudando rust e blockchain
 - 📫 Pode me contactar em: contato.chiucchi@gmail.com
 
 
